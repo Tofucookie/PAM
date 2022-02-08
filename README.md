@@ -1,5 +1,6 @@
+![](https://i.imgur.com/zo27wbl.jpg "Pumpki Banner")
 # Pumpki-AOTM
-This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
+The main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
 
 # Roles:
 
@@ -8,7 +9,7 @@ SirInfinity#0420 (@SirInfinite) - Executive General Manager
 Tofucookie#8888 (@Tofucookie) - Executive Writer / Administion
 
 CladDogger#3333 () - Executive Sprite Artist
-
+a
 rogue,#1703 () - General Artist
 
 DumbDom#3977 () - Concept Art
