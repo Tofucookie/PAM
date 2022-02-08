@@ -1,3 +1,4 @@
+![](https://i.imgur.com/zo27wbl.jpg "Pumpki Banner")
 # Pumpki-AOTM
 The main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
 
