@@ -1,5 +1,5 @@
 # Pumpki-AOTM
-This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
+The main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
 
 # Roles:
 
