@@ -1,11 +1,9 @@
 ![](https://i.imgur.com/zo27wbl.jpg "Pumpki Banner")
 # Pumpki-AOTM
-This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
+This is the main repository for the game **Pumpki: Attack of the Melons** (PAM) created by the discord server Pumpki!
 
-# Links
-[Music Information](MUSIC.md)
-
-[Storyline](STORY.md)
+## Links
+[Music Information](MUSIC.md) | [Storyline](STORY.md)
 
 # Roles:
 
