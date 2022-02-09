@@ -133,7 +133,7 @@ A reference to the Minecraft server tips. An old man that gives you unnecessary 
 
 ## Master Wood
 
-A tree-whisperer munk king of the wood species who speaks in riddles. The exact opposite of what he predicts in the future happens, except for one major prediction.
+A tree-whisperer monk king of the wood species who speaks in riddles. The exact opposite of what he predicts in the future happens, except for one major prediction.
 
 # NPC Characters
 
