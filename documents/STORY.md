@@ -4,7 +4,7 @@ The writing department.
 # MAIN STORY
  
 
-## Prologue
+## Prologue - Welcome to Pumpki
 
 Logos.
 
@@ -12,24 +12,28 @@ The game starts in Pumpkin Patch. We see melons invade the pumpkin patch.
 
 
 Idea for exposition: Life is good and peaceful in Pumpki Town, then humans plant watermelons in the pumpkin patch. The watermelons overrun Pumpki Town and reduce it to ruins. The main character then starts in a desolate Pumpki Town with only a few citizens.
-## Chapter 1
+## Chapter 1 - Watermelon Frenzy!
 
-## Chapter 2
+## Chapter 2 - Fruit Fight!!
 
-## Chapter 3
+## Chapter 3 - Lord Pumpki's Plot!!
 
 ### Cosmetics
 
 #### Pipebomb in the Mailbox - Pipe Bomb Ending
 A mailbox is found in the new areas. There is a 1/200 chance interacting with it will reveal there is a pipe bomb in the mailbox. The player is given an option to open it, and selecting yes kills them and brings them to a game over scene, and credits roll while mocking the player. Suggested by @Doodle#9567 and @Born of Pixels#6462.
 
-## Chapter 4
+## Chapter 4 - Taxes and Trouble
 
-## Chapter 5
+## Chapter 5 - The Interview
 
-## Chapter 6
+## Chapter 6 - Something's Fishy!
 Hi
 
+## Chapter 7 - Green Ninja Strikes Back!
+
+## Chapter 8 - The End of the World
+The final chapter of the game.
 
 
 # SUB PLOTS
