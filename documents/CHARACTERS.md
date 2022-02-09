@@ -66,7 +66,7 @@ Reference to Anglerfish. Slime fish will be a thing.
 
 ### Sheep Fish
 
-Reference to FlubbedSheep.
+Reference to FlubbedSheep. A fish known with wool with a mash!
 
 ## The Rogue Messenger
 
