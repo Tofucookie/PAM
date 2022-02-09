@@ -49,17 +49,35 @@ A reference to Pumpki's Fish Gang, the late night VC group. They are five fishes
 
 ### Sun Fish
 
-The main fish of the crew. He is a tall big fish who wears sunglasses and loves bacon!
+Reference to Baconator / Sunfish. The main fish of the crew. He is a tall big fish who wears sunglasses and loves bacon!
 
 ### Forge Fish
 
-The nerdiest & weirdest one of them all! Walks head facing down and flops around a lot, unlike other fish walking formally. He wears eye glasses and is good at forging items together.
+Reference to Drakenforge. The nerdiest & weirdest one of them all! Walks head facing down and flops around a lot, unlike other fish walking formally. He wears eye glasses and is good at forging items together. Forge Fish goes rogue - his medication goes to his head.
+
+### Slime Fish
+
+Reference to Anglerfish. Slime fish will be a thing. 
 
 ## Blue Venus Fly Trap
 
 A refence to Dullpepper 
 
 # Supporting Characters
+
+## Robo Pumpki
+
+## Jack of All Fruits
+
+## King Cantalope
+
+## Post Melon
+
+## Jack Baughs
+
+## Carl Bot
+
+## Tax Collector
 
 # NPC Characters
 
