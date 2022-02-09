@@ -76,7 +76,7 @@ A reference to RogueWatcher03. He was behind the pipebomb found in your mailbox.
 
 ## Green Ninja Bot
 
-An exact clone of Green Ninja that was worked on by Green Ninja. However, Green Ninja stopped working on this bot after it became rogue.
+An exact clone of Green Ninja that was worked on by Green Ninja. It was meant to maintain order when Green Ninja disappeared. However, the kingdom of pumpkins descended into chaos and division without Green Ninja.
 
 ## Suit Dog
 
