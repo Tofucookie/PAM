@@ -6,6 +6,8 @@ Summary of the main story here.
 
 ## Prologue
 
+Logos.
+
 ## Chapter 1
 
 ## Chapter 2
