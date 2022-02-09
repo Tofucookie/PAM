@@ -6,6 +6,8 @@ Summary of the main story here.
 
 ## Prologue
 
+Logos.
+
 ## Chapter 1
 
 ## Chapter 2
@@ -20,5 +22,11 @@ Summary of the main story here.
 Hi
 
 # SUB PLOTS
+
+## Smash Tournament
+
+There will be an NPC trying to set up a tournament in the game. It will persist even after the game is beaten.
+
+## 
 
 # OTHER IDEAS

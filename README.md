@@ -3,7 +3,7 @@
 This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (https://discord.gg/evweF5J8UU)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
 
 ## Links
-[Music Information](MUSIC.md) | [Storyline](STORY.md)
+**[Music Information](MUSIC.md) | [Storyline](STORY.md) | [Characters](CHARACTERS.md)**
 
 # Roles:
 
@@ -29,7 +29,7 @@ This is the main repository for the game Pumpki: Attack of the Melons created by
 
 **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
-**Ambassador Of Bagels#9293 ([@]())** - Writer
+**Ambassador Of Bagels#9293 (([@Peozza](https://github.com/Peozza)))** - Writer
 
 **lucid#5887 ([@]())** - Animator / General Artist
 
