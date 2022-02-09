@@ -1,14 +1,23 @@
-# File for writing the story
 Welcome to the file for writing the story. Feel free to edit.
+The writing department.
 
 # MAIN STORY
+Summary of the main story here.
+
 ## Prologue
+
 ## Chapter 1
+
 ## Chapter 2
+
 ## Chapter 3
+
 ## Chapter 4
+
 ## Chapter 5
+
 ## Chapter 6
+
 
 # SUB PLOTS
 
