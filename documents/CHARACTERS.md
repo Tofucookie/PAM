@@ -68,8 +68,15 @@ Reference to Anglerfish. Slime fish will be a thing.
 
 Reference to FlubbedSheep.
 
+## The Rogue Messenger
+
+A reference to RogueWatcher03. He was behind the pipebomb found in your mailbox.
 
 # Supporting Characters
+
+### Green Ninja Bot
+
+An exact clone of Green Ninja that was worked on by Green Ninja. However, Green Ninja stopped working on this bot after it became rogue.
 
 ## Robo Pumpki
 
