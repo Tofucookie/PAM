@@ -2,32 +2,35 @@
 # PumpkiAOTM
 This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (https://discord.gg/evweF5J8UU)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
 
+## Links
+[Music Information](MUSIC.md) | [Storyline](STORY.md)
+
 # Roles:
 
-SirInfinity#0420 (@SirInfinite) - Executive General Manager / Coder
+**SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Executive General Manager / Coder
 
-Tofucookie#8888 (@Tofucookie) - Executive Writer / Administrator
+**Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Executive Writer / Administrator
 
-Nitro#7054 (@Nitro444) - Music / Sound Effect Composer
+**Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Music / Sound Effect Composer
 
-Born of Pixels#6462 () - Music / Sound Effect Composer
+**Born of Pixels#6462 ([@]())** - Music / Sound Effect Composer
 
-maybeitsright#9673 (@Maybeitsright) - Executive Marketing Manager
+**maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
 
-Dullpepper#8677 (@Dullpepper5) - Coder in Training / Writer
+**bitchrogue,#1703 ([@]())** - General / Promotional Artist
 
-bitchrogue,#1703 () - General / Promotional Artist
+**Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Coder in Training
 
-CladDogger#3333 () - General / Pixel Artist
+**CladDogger#3333 ([@]())** - General / Pixel Artist
 
-DumbDom#3977 () - Concept / Promotional Artist
+**DumbDom#3977 ([@DumbDom1](https://github.com/DumbDom1))** - Concept / Promotional Artist
 
-BurntToast#1479 () - Coder
+**BurntToast#1479 ([@]())** - Coder
 
-Dodge#6381 (@Dodge21) - Music Composer
+**Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
-Ambassador Of Bagels#9293 () - Writer
+**Ambassador Of Bagels#9293 ([@]())** - Writer
 
-lucid#5887 () - Animator / General Artist
+**lucid#5887 ([@]())** - Animator / General Artist
 
-TheJean#5406 (@TheJeanKid) - Writer
+**TheJean#5406 ([@TheJeanKid](https://github.com/TheJeanKid))** - Writer
