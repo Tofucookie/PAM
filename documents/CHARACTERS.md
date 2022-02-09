@@ -43,6 +43,11 @@ An old and wise, but rotting pumpkin that imparts some sort of important wisdom 
 
 # Minor Characters
 
+## Blue Venus Fly Trap
+
+A refence to Dullpepper.
+
+
 ## Fish Gang
 
 A reference to Pumpki's Fish Gang, the late night VC group. They are five fishes. They are an emodiment of what people imagine what a 90s high school gang looks like, however they are on your side and you encounter them from time to time, similar to the Toad Brigade encounters from Super Mario Galaxy. 
@@ -63,9 +68,6 @@ Reference to Anglerfish. Slime fish will be a thing.
 
 Reference to FlubbedSheep.
 
-## Blue Venus Fly Trap
-
-A refence to Dullpepper 
 
 # Supporting Characters
 
