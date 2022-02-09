@@ -37,3 +37,4 @@ There will be an NPC trying to set up a tournament in the game. It will persist 
 ## 
 
 # OTHER IDEAS
+Various hidden Among Us collectables hidden throughout the game (different colors of characters). Or at least some hidden collectable of some sort if not among us.
