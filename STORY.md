@@ -1,7 +1,7 @@
 # File for writing the story
 Welcome to the file for writing the story. Feel free to edit.
 
-### MAIN STORY
+# MAIN STORY
 ## Prologue
 ## Chapter 1
 ## Chapter 2
@@ -10,6 +10,6 @@ Welcome to the file for writing the story. Feel free to edit.
 ## Chapter 5
 ## Chapter 6
 
-### SUB PLOTS
+# SUB PLOTS
 
-### OTHER IDEAS
+# OTHER IDEAS
