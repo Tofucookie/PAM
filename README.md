@@ -29,7 +29,7 @@ This is the main repository for the game Pumpki: Attack of the Melons created by
 
 **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
-**Ambassador Of Bagels#9293 ([@]())** - Writer
+**Ambassador Of Bagels#9293 (([@Peozza](https://github.com/Peozza)))** - Writer
 
 **lucid#5887 ([@]())** - Animator / General Artist
 
