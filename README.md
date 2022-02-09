@@ -8,8 +8,9 @@ It will be a top-down RPG with some 3D aspects. The game will have many referenc
 ## Links
 **[Music Information](documents/MUSIC.md) | [Storyline](documents/STORY.md) | [Characters](documents/CHARACTERS.md) | [Locations](documents/LOCATIONS.md)**
 
-**[Pumpki Discord Server](https://discord.gg/sRhKdkK9Jn)
-# Roles:
+**[Pumpki Discord Server](https://discord.gg/sRhKdkK9Jn)**
+
+# Developer Team
 
 There are many people involved in the project. This includes people from Canada, United States, United Kingdom, & Denmark.
 
