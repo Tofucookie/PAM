@@ -33,6 +33,10 @@ An angry watermelon with it's red watermelon chunk clearly bitten. Acts casual. 
 
 A reference to Tofucookie. The highest ranking under Lord Pumpki and is pure evil after Lord Pumpki became corrupted. Nicknamed by the Pumpki kingdom as Tofu.
 
+### Abilities
+
+Teleportation & sudden appearances/disappearances.
+
 ### Sample Dialogue
 > I would like to have a word with you!
 
