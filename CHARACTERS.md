@@ -37,6 +37,10 @@ The main villain. A supposed king of the Pumpkins who has become corrupted.
 An angry watermelon with it's red watermelon chunk clearly bitten. The lord of the watermelon.
 
 
+## Elder Pumpki (name subject to change)
+
+An old and wise, but rotting pumpkin that imparts some sort of important wisdom on the player.
+
 # Minor Characters
 
 # Supporting Characters
