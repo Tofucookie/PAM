@@ -1,25 +1,31 @@
 ![](https://i.imgur.com/zo27wbl.jpg "Pumpki Banner")
 # Pumpki-AOTM
-The main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
+This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki!
 
 # Roles:
 
-SirInfinity#0420 (@SirInfinite) - Executive General Manager
+SirInfinity#0420 (@SirInfinite) - Executive General Manager / Coder
 
-Tofucookie#8888 (@Tofucookie) - Executive Writer / Administion
+Tofucookie#8888 (@Tofucookie) - Executive Writer / Administrator
 
-CladDogger#3333 () - Executive Sprite Artist
-a
-rogue,#1703 () - General Artist
+Nitro#7054 (@Nitro444) - Music / Sound Effect Composer
 
-DumbDom#3977 () - Concept Art
+Born of Pixels#6462 () - Music / Sound Effect Composer
 
-Nitro#7054 (@Nitro444) - Sound / Music Composer
+maybeitsright#9673 [420v4p3m4st3r69] (@Maybeitsright) - Executive Marketing Manager
 
-Born of Pixels#6462 () - Sound / Music Composer
+Dullpepper#8677 (@Dullpepper5) - Coder in Training
 
-Dodge the Axolotl Master#6381 () - Sound / Music Composer
+rogue,#1703 () - General / Promotional Artist
 
-BurntToast#1479 () - Programmer
+CladDogger#3333 () - General / Pixel Artist
 
-Dullpepper#8677 (@Dullpepper5) - 
+DumbDom#3977 () - Concept / Promotional Artist
+
+BurntToast#1479 () - Coder
+
+Dodge#6381 [Dodge the Axolotl Master] () - Music Composer
+
+Peozza#9293 [Ambassador Of Bagels] () - Writer
+
+daridan#5887 [lucid] () - Animator / General Artist
