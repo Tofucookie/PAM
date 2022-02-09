@@ -2,12 +2,12 @@ Welcome to the file for writing the story. Feel free to edit.
 The writing department.
 
 # MAIN STORY
-Summary of the main story here.
+ 
 
 ## Prologue
 
 Logos.
-
+Idea for exposition: Life is good and peaceful in Pumpki Town, then humans plant watermelons in the pumpkin patch. The watermelons overrun Pumpki Town and reduce it to ruins. The main character then starts in a desolate Pumpki Town with only a few citizens.
 ## Chapter 1
 
 ## Chapter 2
