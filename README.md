@@ -19,7 +19,7 @@ It will be a top-down RPG with some 3D aspects. The game will have many referenc
 
 **maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
 
-**bitchrogue,#1703 ([@](https://github.com/))** - General / Promotional Artist
+**bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - General / Promotional Artist
 
 **Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Coder in Training
 
@@ -37,4 +37,4 @@ It will be a top-down RPG with some 3D aspects. The game will have many referenc
 
 **TheJean#5406 ([@TheJeanKid](https://github.com/TheJeanKid))** - Writer
 
-**MisterTimber#7487 ([@](https://github.com/))** - Writer
+**MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Writer
