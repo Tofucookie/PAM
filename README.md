@@ -12,6 +12,8 @@ There are many people involved in the project. This includes people from Canada,
 
 ## Supervision
 
+These users help ensure every department work together.
+
 **SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
 
 **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Head Administration
@@ -20,6 +22,8 @@ There are many people involved in the project. This includes people from Canada,
 
 ## Programming & Technical
 
+These users program the heart of the game.
+
 **SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
 
 **BurntToast#1479 ([@ButteredBurntToast](https://github.com/ButteredBurntToast))** - Programmer
@@ -27,6 +31,8 @@ There are many people involved in the project. This includes people from Canada,
 **Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Programmer in Training
 
 ## Art & Design
+
+These users help with creating visual assets for the game.
 
 **CladDogger#3333 ([@](https://github.com/))** - Lead Sprite Artist
 
@@ -38,6 +44,8 @@ There are many people involved in the project. This includes people from Canada,
 
 ## Writing
 
+These users help with the storyline and events in the game.
+
 **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Co-Lead Writer
 
 **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Co-Lead Writer
@@ -48,17 +56,17 @@ There are many people involved in the project. This includes people from Canada,
 
 ## Sound
 
+These users help provide the audible atmosphere for the game.
+
 **Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Lead Music / Sound Composer 
 
 **Born of Pixels#6462 ([@](https://github.com/))** - Music / Sound Effect Composer
 
 **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
-### Voice Acting
-
-
-
 ## Miscellaneous
+
+These users help in unique ways for the game.
 
 **maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
 
