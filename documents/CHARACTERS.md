@@ -4,7 +4,7 @@ The Pumpki game features many characters from the Pumpkiverse.
 
 ## Green Ninja
 
-The highest ranking under Lord Pumpki.
+A reference to Tofucookie. The highest ranking under Lord Pumpki and is pure evil after Lord Pumpki became corrupted.
 
 <details><summary>Click for Images</summary>
 <p>
@@ -45,7 +45,7 @@ An old and wise, but rotting pumpkin that imparts some sort of important wisdom 
 
 ## Blue Venus Fly Trap
 
-A refence to Dullpepper. Used to be involved with the Fish Gang.
+A refence to Dullpepper. Used to be involved with the Fish Gang. Not even involved with the Pumpkins vs Melon conflict.
 
 
 ## Fish Gang
@@ -74,9 +74,13 @@ A reference to RogueWatcher03. He was behind the pipebomb found in your mailbox.
 
 # Supporting Characters
 
-### Green Ninja Bot
+## Green Ninja Bot
 
 An exact clone of Green Ninja that was worked on by Green Ninja. However, Green Ninja stopped working on this bot after it became rogue.
+
+## Suit Dog
+
+A reference to CladDogger.
 
 ## Robo Pumpki
 
