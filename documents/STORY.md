@@ -12,7 +12,15 @@ The game starts in Pumpkin Patch. We see melons invade the pumpkin patch.
 
 
 Idea for exposition: Life is good and peaceful in Pumpki Town, then humans plant watermelons in the pumpkin patch. The watermelons overrun Pumpki Town and reduce it to ruins. The main character then starts in a desolate Pumpki Town with only a few citizens.
+
+
+### Side Quests
+
+#### The Smash Tournament
+A reference to Pumpki's dreaded Smash Bros tournament. You meet an NPC who expresses to you how he's excited to start a tournament and is looking for a last minute contender to join. You join, and you are promised to be updated about the tournament. In the story, you only end up really fighting someone once in the middle of the story, but they're too weak to even fight at all. The tournament keeps on getting delayed no matter whenever you visit the NPC, even after beating the game.
+
 ## Chapter 1 - Watermelon Frenzy!
+
 
 ## Chapter 2 - Fruit Fight!!
 
