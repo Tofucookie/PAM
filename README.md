@@ -3,6 +3,8 @@ This is the main repository for the game Pumpki: Attack of the Melons created by
 
 It will be a top-down RPG with some 3D aspects. The game will have many references to the Pumpki universe, along with showcasing original talents from across the community. The goal will be to defeat both melon and pumpkin.
 
+
+[![](https://discord.com/api/guilds/796808100535468076/widget.png)](https://discordsrv.com/discord "Discord")
 ## Links
 **[Music Information](documents/MUSIC.md) | [Storyline](documents/STORY.md) | [Characters](documents/CHARACTERS.md) | [Locations](documents/LOCATIONS.md)**
 
