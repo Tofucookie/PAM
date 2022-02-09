@@ -23,3 +23,7 @@ An angry watermelon with it's red watermelon chunk clearly bitten. The lord of t
 
 ## Phrog - Shopkeeper
 A shop keeper.
+
+## Elder Pumpki (name subject to change)
+
+An old and wise, but rotting pumpkin that imparts some sort of important wisdom on the player.
