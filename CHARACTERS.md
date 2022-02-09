@@ -59,6 +59,10 @@ Reference to Drakenforge. The nerdiest & weirdest one of them all! Walks head fa
 
 Reference to Anglerfish. Slime fish will be a thing. 
 
+### Sheep Fish
+
+Reference to FlubbedSheep.
+
 ## Blue Venus Fly Trap
 
 A refence to Dullpepper 
