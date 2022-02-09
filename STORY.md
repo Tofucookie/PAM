@@ -7,6 +7,10 @@ The writing department.
 ## Prologue
 
 Logos.
+
+The game starts in Pumpkin Patch. We see melons invade the pumpkin patch.
+
+
 Idea for exposition: Life is good and peaceful in Pumpki Town, then humans plant watermelons in the pumpkin patch. The watermelons overrun Pumpki Town and reduce it to ruins. The main character then starts in a desolate Pumpki Town with only a few citizens.
 ## Chapter 1
 
