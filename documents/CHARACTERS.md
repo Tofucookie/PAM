@@ -45,7 +45,7 @@ An old and wise, but rotting pumpkin that imparts some sort of important wisdom 
 
 ## Blue Venus Fly Trap
 
-A refence to Dullpepper.
+A refence to Dullpepper. Used to be involved with the Fish Gang.
 
 
 ## Fish Gang
