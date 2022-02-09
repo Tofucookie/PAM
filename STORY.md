@@ -21,4 +21,10 @@ Hi
 
 # SUB PLOTS
 
+## Smash Tournament
+
+There will be an NPC trying to set up a tournament in the game. It will persist even after the game is beaten.
+
+## 
+
 # OTHER IDEAS
