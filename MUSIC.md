@@ -9,7 +9,7 @@
 | igm_dramatic.mp3 | Background WIP name  | Nitro#7054  | Content Cell  | Content Cell  |
 | igm_forest.mp3  | Forest  | Born of Pixels#6462  | Content Cell  | Content Cell  |
 | igm_forward.mp3  | Boss 2 WIP name  | Nitro#7054  | Content Cell  | Content Cell  |
-| igm_lordpumpki.mp3  | Lord Pumpki  |   | Born of Pixels#6462  | Content Cell  | Content Cell  |
+| igm_lordpumpki.mp3  | Lord Pumpki  |  Born of Pixels#6462  | Content Cell  | Content Cell  |
 | igm_pumpki-story.mp3  | Cutscene WIP name  | Nitro#7054  | Content Cell  | Content Cell  |
 | igm_spooki.mp3  | Spooki Pumpki  | Nitro#7054  | Content Cell  | Content Cell  |
 | igm_strangeland.mp3  | Strange 1 WIP name  | Born of Pixels#6462  | Content Cell  | Content Cell  |
