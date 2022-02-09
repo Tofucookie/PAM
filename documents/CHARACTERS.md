@@ -58,7 +58,7 @@ Reference to Baconator / Sunfish. The main fish of the crew. He is a tall big fi
 
 ### Forge Fish
 
-Reference to Drakenforge. The nerdiest & weirdest one of them all! Walks head facing down and flops around a lot, unlike other fish walking formally. He wears eye glasses and is good at forging items together. Forge Fish goes rogue - his medication goes to his head.
+Reference to Drakenforge. A Blacksmith-like character; the nerdiest & weirdest one of them all! Walks head facing down and flops around a lot, unlike other fish walking formally. He wears eye glasses and is good at forging items together. Forge Fish goes rogue - his medication goes to his head.
 
 ### Slime Fish
 
