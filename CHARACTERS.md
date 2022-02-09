@@ -39,7 +39,7 @@ An angry watermelon with it's red watermelon chunk clearly bitten. The lord of t
 
 ## Elder Pumpki (name subject to change)
 
-An old and wise, but rotting pumpkin that imparts some sort of important wisdom on the player.
+An old and wise, but rotting pumpkin that imparts some sort of important wisdom on the player. (Another potential idea for this character, he makes you complete some sort of puzzle minigame before giving you the information needed to progress)  
 
 # Minor Characters
 
