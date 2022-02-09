@@ -1,10 +1,9 @@
 ![](https://i.imgur.com/zo27wbl.jpg "Pumpki Banner")
-# PumpkiAOTM
 This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (https://discord.gg/evweF5J8UU)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
 
 It will be a top-down RPG with some 3-D aspects. The game will have many references to the Pumpki universe, along with showcasing original talents from across the community. The goal will be to defeat both melon and pumpkin.
 
-## Links
+# Links
 **[Music Information](documents/MUSIC.md) | [Storyline](documents/STORY.md) | [Characters](documents/CHARACTERS.md) | [Locations](documents/LOCATIONS.md)**
 
 # Roles:
