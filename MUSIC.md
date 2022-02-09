@@ -1,2 +1,5 @@
 # IN-GAME MUSIC
-| Header Column One | Header Column Two | Header Column Three | Header Column Four |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
