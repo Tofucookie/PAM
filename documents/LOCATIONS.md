@@ -1,4 +1,4 @@
-**[Main Page](../../..) | [Music Information](documents/MUSIC.md) | [Storyline](documents/STORY.md) | [Characters](documents/CHARACTERS.md) | [Locations](documents/LOCATIONS.md) | [Proposed Concepts](documents/PROPOSED.md)**
+**[Main Page](../../..) | [Music Information](MUSIC.md) | [Storyline](STORY.md) | [Characters](CHARACTERS.md) | [Locations](LOCATIONS.md) | [Proposed Concepts](PROPOSED.md)**
 
 # Locations
 The game features many new original locations and locations that reference moments from the Pumpki community.
