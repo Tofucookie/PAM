@@ -47,6 +47,8 @@ You are introduced to Jack Bocks in this chapter. You must be the first to defea
 
 ### Chapter 7 - Green Ninja Strikes Back!
 
+Green Ninja's revenge!!
+
 ### Chapter 8 - The End of the World
 The final chapter of the game.
 
