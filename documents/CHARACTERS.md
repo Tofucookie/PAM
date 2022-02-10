@@ -133,9 +133,12 @@ A reference to the Minecraft server tips. An old man that gives you unnecessary 
 
 ## Master Wood
 
-A tree-whisperer monk king of the wood species in the Hollow Forest who speaks in riddles. The exact opposite of what he predicts in the future happens. You notice his predictions are polar opposite after a few prediction and use it to your full advantage... Except for one major prediction.
+A tree-whisperer monk king of the woodlens in the Hollow Woods who speaks in riddles. The exact opposite of what he predicts in the future happens. You notice his predictions are polar opposite after a few prediction and use it to your full advantage... Except for one major prediction.
 
 # NPC Characters
 
 ## Phrog - Shopkeeper
-A shop keeper.
+A shop keeper. used to be a human named Scott, but accidentally swapped bodies with a frog, now he’s a grumpy frog shop keeper with a pet human who acts like a frog. He’s not mad, he’s just disappointed.
+
+## Scott
+The shop keepers pet. used to be a Frog named Phrog (very clever guys) but accidentally swapped bodies with a human, now he’s a dumbass human that acts like a frog.
