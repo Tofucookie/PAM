@@ -58,6 +58,8 @@ These users help with the storyline and events in the game.
 
 **MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Writer
 
+**Drakenforge#4510 ([@Drakenforge42](https://github.com/Drakenforge42))** - Concepts Writer
+
 ## Sound
 
 These users help provide the audible atmosphere for the game.
@@ -75,11 +77,3 @@ These users help in unique ways for the game.
 **maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
 
 **AkiQuacc#9575 ([@](https://github.com/))** - Marketing / Promotions
-
-
-
-
-
-
-
-
