@@ -6,4 +6,7 @@ The protagonist goes to this island at somepoint and a lot of revelations happen
 
 On this Island in the depths of the caves and mines, we find the last surviving pure Mushroom, this mushroom is an Elder Mushroom, who were usually the ones that would carry and preserve the race's history and they generally live for centuries. This Mushroom becomes the key to reversing the virus that corrupted the once great civilization...
 
+## Hollow Woods - The Timber Village
+A dark forest that can feel like it goes on forever with dangerous monsters like wolfs, goblins, tree monsters, ect. And at the heart of the forest lies the Timber Village, with Woodlens, ancient wood creatures, who live in treehouses with clan leader, Master Wood. Unfortunately, one of Lord Pumpki’s plan is to cut down the entire forest and kill the Woodlens.
+
 # Minor & Side Locations
