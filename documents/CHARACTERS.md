@@ -73,6 +73,9 @@ A reference to CladDogger.
 
 An old and wise, but rotting pumpkin that imparts some sort of important wisdom on the player. (Another potential idea for this character, he makes you complete some sort of puzzle minigame before giving you the information needed to progress)  
 
+## Pumpk-O-Latern
+
+The guard dog of Lord Pumpki. Based on the original Pumpki mascot
 # Minor Characters
 
 ## Fish Gang
