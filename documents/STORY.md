@@ -1,3 +1,7 @@
+**[Main Page](../../..) | [Music Information](MUSIC.md) | [Storyline](STORY.md) | [Characters](CHARACTERS.md) | [Locations](LOCATIONS.md) | [Proposed Concepts](PROPOSED.md)**
+
+# Storyline
+
 Welcome to the file for writing the story. Feel free to edit.
 The writing department.
 
