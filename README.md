@@ -54,11 +54,15 @@ These users help with the storyline and events in the game.
 
 **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Co-Lead Writer
 
-**Ambassador Of Bagels#9293 ([@Peozza](https://github.com/Peozza))** - Writer
+**MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Main Story Writer
 
-**MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Writer
+**Scotty_0501#5181 ([@Scotty05](https://github.com/Scotty05))** - Main Story Writer
+
+**Epicnoham#6748 ([@Epicnoham](https://github.com/Epicnoham))** - Side Events Writer
 
 **Drakenforge#4510 ([@Drakenforge42](https://github.com/Drakenforge42))** - Concepts Writer
+
+**Ambassador Of Bagels#9293 ([@Peozza](https://github.com/Peozza))** - Miscellaneous Writer
 
 ## Sound
 
