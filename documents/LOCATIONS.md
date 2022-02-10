@@ -16,3 +16,8 @@ On this Island in the depths of the caves and mines, we find the last surviving 
 A dark forest that can feel like it goes on forever with dangerous monsters like wolfs, goblins, tree monsters, ect. And at the heart of the forest lies the Timber Village, with Woodlens, ancient wood creatures, who live in treehouses with clan leader, Master Wood. Unfortunately, one of Lord Pumpki’s plan is to cut down the entire forest and kill the Woodlens.
 
 # Minor & Side Locations
+
+## Blacken Quagmire
+a spreadful combination of swamps, wetlands, and jungles on the outer fringes of The World and not for the faint of heart, this quagmire is well-known for "consuming" anyone that ventures into the inky darkness that blooms from it and of the deadly flora that thrive there, with the same stories also stating of long forgotten relics and weapons of both the Melon and Pumpkin kingdoms and of survivors that lost all shreds of humanity.
+but these are just campfire stories....
+right?
