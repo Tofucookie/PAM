@@ -15,7 +15,7 @@ Logos.
 The game starts in Pumpkin Patch. We see melons invade the pumpkin patch.
 
 
-Idea for exposition: Life is good and peaceful in Pumpki Town, then humans plant watermelons in the pumpkin patch. The watermelons overrun Pumpki Town and reduce it to ruins. The main character then starts in a desolate Pumpki Town with only a few citizens.
+Idea for exposition: Life is good and peaceful in Pumpki Town, then humans plant watermelons in the pumpkin patch. The watermelons overrun Pumpki Town and reduce it to ruins. The main character then starts in a desolate Pumpki Town with only a few citizens. The king, Lord Pumpki, vows to one day kill all of the Melons to bring back the glory of the Pumpkins. So he sets off on a journey to become more powerful, and finds the Sacred Vine, a whip so powerful it can kill even the most powerful of beings in one swing. But this power comes at a cost, whoever takes the Vine will be under its control, and when Lord Pumpki took the whip, only evil thoughts ran through his head, and instead of rebuilding his kingdom, he wanted to enslave the world.
 
 
 ### Side Quests
