@@ -33,7 +33,9 @@ A mailbox is found in the new areas. There is a 1/200 chance interacting with it
 
 ## Chapter 4 - Taxes and Trouble
 
-## Chapter 5 - The Interview
+## Chapter 5 - The Hollow Night
+
+It is rumored that in the heart of the mysterious Hollow Woods, lies an ancient village inhabited by wood creatures known as Woodlens.
 
 ## Chapter 6 - Something's Fishy!
 Hi
