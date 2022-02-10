@@ -32,7 +32,7 @@ These users program the heart of the game.
 
 **BurntToast#1479 ([@ButteredBurntToast](https://github.com/ButteredBurntToast))** - Programmer
 
-**Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Programmer in Training
+**Ironbatman12#9680 ([@](https://github.com/))** - Programmer
 
 ## Art & Design
 
@@ -70,7 +70,7 @@ These users help provide the audible atmosphere for the game.
 
 **Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Lead Music / Sound Composer 
 
-**Born of Pixels#6462 ([@](https://github.com/))** - Music / Sound Effect Composer
+**Born of Pixels#6462** - Music / Sound Effect Composer
 
 **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
@@ -81,3 +81,5 @@ These users help in unique ways for the game.
 **maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
 
 **AkiQuacc#9575 ([@](https://github.com/))** - Marketing / Promotions
+
+**Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Unknown
