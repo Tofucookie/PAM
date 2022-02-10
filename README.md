@@ -31,10 +31,10 @@ The game has inspiration from the following games:
 
 ## Developer Team
 
-There are many people involved in the project. This includes people from Canada, United States, United Kingdom, & Denmark.
+There are many people involved in the project. This includes people from Canada, United States, United Kingdom, Cyprus & Denmark.
 
 <details>
-  <summary>CLICK TO EXPAND</summary>
+  <summary><b>CLICK TO EXPAND</b></summary>
 
   ## Supervision
 
