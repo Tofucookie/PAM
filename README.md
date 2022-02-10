@@ -38,7 +38,7 @@ These users program the heart of the game.
 
 These users help with creating visual assets for the game.
 
-**CladDogger#3333 ([@](https://github.com/))** - Lead Sprite Artist
+**CladDogger#3333 ([@CladDogger](https://github.com/CladDogger))** - Lead Sprite Artist
 
 **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Lead Concept Artist
 
