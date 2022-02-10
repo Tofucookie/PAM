@@ -4,7 +4,7 @@
 
 **[Pumpki Discord Server](https://discord.gg/sRhKdkK9Jn)**
 
-[![](https://discord.com/api/guilds/796808100535468076/widget.png)](https://discordsrv.com/discord "Discord")
+[![](https://discord.com/api/guilds/796808100535468076/widget.png)](https://discord.gg/sRhKdkK9Jn "Discord Server")
 
 # Pumpki: Attack of the Melons
 
