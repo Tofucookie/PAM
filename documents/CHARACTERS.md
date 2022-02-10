@@ -13,6 +13,8 @@ The main villain. A supposed king of the Pumpkins who has become corrupted.
 ### Sample Dialogue
 > DO YOU THINK THIS IS FUNNY??
 
+> You see Tofu, some call it Geneva Convention, I call it Geneva Suggestion. 
+
 ### Gallery
 <details><summary>Click for Images</summary>
 <p>
