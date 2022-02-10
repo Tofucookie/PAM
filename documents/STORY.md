@@ -52,6 +52,10 @@ The final chapter of the game.
 
 ## SUB PLOTS
 
+### Chapter 9 - The Interview (POST RELEASE, BONUS CONTENT)
+
+You basically want to join the New Pumpkin Society's mod team & the entire plot goes over this. lmao
+
 ### Smash Tournament
 
 There will be an NPC trying to set up a tournament in the game. It will persist even after the game is beaten.
