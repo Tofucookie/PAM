@@ -1,11 +1,17 @@
 **[Main Page](../../..) | [Music Information](MUSIC.md) | [Storyline](STORY.md) | [Characters](CHARACTERS.md) | [Locations](LOCATIONS.md) | [Proposed Concepts](PROPOSED.md)**
 
+# Proposed Content
+
 Proposed content for the game
 
-# Characters
+## Characters
+  * Bullet
+  *  Bullet
+  *  Bullet
+  *  Bullet
 
-# Areas
+## Areas
 
-# Quests & Events
+## Quests & Events
 
-# Miscellaneous
+## Miscellaneous
