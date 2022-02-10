@@ -1,4 +1,4 @@
-**[Main Page](../../..) | [Music Information](documents/MUSIC.md) | [Storyline](documents/STORY.md) | [Characters](documents/CHARACTERS.md) | [Locations](documents/LOCATIONS.md) | [Proposed Concepts](documents/PROPOSED.md)**
+**[Main Page](../../..) | [Music Information](MUSIC.md) | [Storyline](STORY.md) | [Characters](CHARACTERS.md) | [Locations](LOCATIONS.md) | [Proposed Concepts](PROPOSED.md)**
 
 # Characters
 The Pumpki game features many characters from the Pumpkiverse.
