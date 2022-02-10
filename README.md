@@ -1,85 +1,109 @@
 ![](https://i.imgur.com/zo27wbl.jpg "Pumpki Banner")
-This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (**https://discord.gg/evweF5J8UU**)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
 
-It will be a top-down RPG with some 3D aspects. The game will have many references to the Pumpki universe, along with showcasing original talents from across the community. The goal will be to defeat both melon and pumpkin.
-
-
-[![](https://discord.com/api/guilds/796808100535468076/widget.png)](https://discordsrv.com/discord "Discord")
-## Links
 **[Music Information](documents/MUSIC.md) | [Storyline](documents/STORY.md) | [Characters](documents/CHARACTERS.md) | [Locations](documents/LOCATIONS.md) | [Proposed Concepts](documents/PROPOSED.md)**
 
 **[Pumpki Discord Server](https://discord.gg/sRhKdkK9Jn)**
 
-# Developer Team
+[![](https://discord.com/api/guilds/796808100535468076/widget.png)](https://discordsrv.com/discord "Discord")
+
+# Pumpki: Attack of the Melons
+
+This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (**https://discord.gg/evweF5J8UU**)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
+
+
+
+## Inspiration
+
+After passing the application & interview stage, SirInfinity#0420 was promoted by Tofucookie#8888 to Event Host and immediately pitched the idea of a game for Pumpki consisting of inside jokes. The game eventually would turn into a more "serious" 2D game as more people from across the community heard about it. It will be a 2D top-down RPG game developed through unity. The game will have many references to the Pumpki universe while poking fun at video-game structure & story-telling tropes. 
+
+The game has inspiration from the following Pumpki things & events:
+* PumpkiSMP
+* The Pumpki "Dark Ages"
+* Never-ending Smash Bros Tournament
+* Lord Pumpki
+
+The game has inspiration from the following games:
+* Pokemon Series
+* Undertale
+* Paper Mario
+* The Stanley Parable
+
+
+## Developer Team
 
 There are many people involved in the project. This includes people from Canada, United States, United Kingdom, & Denmark.
 
-## Supervision
+<details>
+  <summary>CLICK TO EXPAND</summary>
 
-These users help ensure every department work together.
+  ## Supervision
 
-**SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
+  These users help ensure every department work together.
 
-**Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Head Administration
+  **SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
 
-**TheJean#5406 ([@TheJeanKid](https://github.com/TheJeanKid))** - Assistant Administration
+  **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Head Administration
 
-## Programming & Technical
+  **TheJean#5406 ([@TheJeanKid](https://github.com/TheJeanKid))** - Assistant Administration
 
-These users program the heart of the game.
+  ## Programming & Technical
 
-**SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
+  These users program the heart of the game.
 
-**BurntToast#1479 ([@ButteredBurntToast](https://github.com/ButteredBurntToast))** - Programmer
+  **SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
 
-**Ironbatman12#9680 ([@](https://github.com/))** - Programmer
+  **BurntToast#1479 ([@ButteredBurntToast](https://github.com/ButteredBurntToast))** - Programmer
 
-## Art & Design
+  **Ironbatman12#9680 ([@](https://github.com/))** - Programmer
 
-These users help with creating visual assets for the game.
+  ## Art & Design
 
-**CladDogger#3333 ([@CladDogger](https://github.com/CladDogger))** - Lead Sprite Artist
+  These users help with creating visual assets for the game.
 
-**bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Lead Concept Artist
+  **CladDogger#3333 ([@CladDogger](https://github.com/CladDogger))** - Lead Sprite Artist
 
-**DumbDom#3977 ([@DumbDom1](https://github.com/DumbDom1))** - Concept / Promotional Artist
+  **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Lead Concept Artist
 
-**lucid#5887 ([@](https://github.com/))** - General Artist
+  **DumbDom#3977 ([@DumbDom1](https://github.com/DumbDom1))** - Concept / Promotional Artist
 
-## Writing
+  **lucid#5887 ([@](https://github.com/))** - General Artist
 
-These users help with the storyline and events in the game.
+  ## Writing
 
-**Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Co-Lead Writer
+  These users help with the storyline and events in the game.
 
-**bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Co-Lead Writer
+  **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Co-Lead Writer
 
-**MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Main Story Writer
+  **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Co-Lead Writer
 
-**Scotty_0501#5181 ([@Scotty05](https://github.com/Scotty05))** - Main Story Writer
+  **MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Main Story Writer
 
-**Epicnoham#6748 ([@Epicnoham](https://github.com/Epicnoham))** - Side Events Writer
+  **Scotty_0501#5181 ([@Scotty05](https://github.com/Scotty05))** - Main Story Writer
 
-**Drakenforge#4510 ([@Drakenforge42](https://github.com/Drakenforge42))** - Concepts Writer
+  **Epicnoham#6748 ([@Epicnoham](https://github.com/Epicnoham))** - Side Events Writer
 
-**Ambassador Of Bagels#9293 ([@Peozza](https://github.com/Peozza))** - Miscellaneous Writer
+  **Drakenforge#4510 ([@Drakenforge42](https://github.com/Drakenforge42))** - Concepts Writer
 
-## Sound
+  **Ambassador Of Bagels#9293 ([@Peozza](https://github.com/Peozza))** - Miscellaneous Writer
 
-These users help provide the audible atmosphere for the game.
+  ## Sound
 
-**Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Lead Music / Sound Composer 
+  These users help provide the audible atmosphere for the game.
 
-**Born of Pixels#6462** - Music / Sound Effect Composer
+  **Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Lead Music / Sound Composer 
 
-**Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
+  **Born of Pixels#6462** - Music / Sound Effect Composer
 
-## Miscellaneous
+  **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
-These users help in unique ways for the game.
+  ## Miscellaneous
 
-**maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
+  These users help in unique ways for the game.
 
-**AkiQuacc#9575 ([@](https://github.com/))** - Marketing / Promotions
+  **maybeitsright#9673 ([@Maybeitsright](https://github.com/Maybeitsright))** - Executive Marketing Manager
 
-**Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Unknown
+  **AkiQuacc#9575 ([@](https://github.com/))** - Marketing / Promotions
+
+  **Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Unknown
+
+  </details>
