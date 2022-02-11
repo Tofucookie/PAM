@@ -13,5 +13,6 @@ Proposed content for the game
 ## Areas
 
 ## Quests & Events
+  *  Lottery Ending: 1 in 90,000 chance to win the lottery; you beat the game & get Steam achievement if you get this
 
 ## Miscellaneous
