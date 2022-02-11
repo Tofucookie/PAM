@@ -32,7 +32,8 @@ The main villain. A supposed king of the Pumpkins who has become corrupted.
 An angry watermelon with it's red watermelon chunk clearly bitten. Acts casual. The lord of the watermelon.
 
 ### Sample Dialogue
-"This is pretty sweet! "
+ > "This is pretty sweet! "
+ > "I am simply built different"
 
 ## Green Ninja
 
