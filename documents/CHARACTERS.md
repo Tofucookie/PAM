@@ -135,9 +135,9 @@ An exact clone of Green Ninja that was worked on by Green Ninja. It was meant to
 
 ## Tax Collector
 
-## Mr. Tips
-
 ## Waterfelons
+
+## Mr. Tips
 
 A reference to the Minecraft server tips. An old man that gives you unnecessary advice super late after you already learnt them. You meet him in the beginning but he actually makes his appearance more often in the final chapter.
 
