@@ -8,7 +8,7 @@ You basically want to join the New Pumpkin Society's mod team & the entire plot 
 
 ## Smash Tournament
 
-There will be an NPC trying to set up a tournament in the game. It will persist even after the game is beaten.
+A reference to Pumpki's dreaded Smash Bros tournament. You meet an NPC who expresses to you how he's excited to start a tournament and is looking for a last minute contender to join. You join, and you are promised to be updated about the tournament. In the story, you only end up really fighting someone once in the middle of the story, but they're too weak to even fight at all. The tournament keeps on getting delayed no matter whenever you visit the NPC, even after beating the game.
 
 ## Icy and being AFK
 
