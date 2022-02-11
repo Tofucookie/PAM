@@ -7,6 +7,8 @@ The writing department.
 
 ## Table of Contents
 
+**[Prologue](STORY/0.md)**
+
 **[Chapter 1](STORY/1.md)**
 
 **[Chapter 2](STORY/2.md)**
