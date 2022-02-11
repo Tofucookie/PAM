@@ -27,6 +27,9 @@ The game has inspiration from the following games:
 * Undertale
 * Paper Mario
 * The Stanley Parable
+* The Legend of Zelda (Original)
+* Jackbox
+* Crab Game
 
 
 ## Developer Team
@@ -38,7 +41,7 @@ There are many people involved in the project. This includes people from Canada,
 
   ## Supervision
 
-  These users help ensure every department work together.
+  These users help ensure every department work together. Administrating, leading, and general checkups are the specialty of this group.
 
   **SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
 
@@ -48,7 +51,7 @@ There are many people involved in the project. This includes people from Canada,
 
   ## Programming & Technical
 
-  These users program the heart of the game.
+  These users program the heart of the game. The basis of P:AOTM wouldn't be if not for this group.
 
   **SirInfinity#0420 ([@SirInfinite](https://github.com/SirInfinite))** - Lead Programmer
 
@@ -58,7 +61,7 @@ There are many people involved in the project. This includes people from Canada,
 
   ## Art & Design
 
-  These users help with creating visual assets for the game.
+  These users help with creating visual assets for the game. Unless your blind, this group is very helpful to the aestethics of the game.
 
   **CladDogger#3333 ([@CladDogger](https://github.com/CladDogger))** - Lead Sprite Artist
 
@@ -70,7 +73,7 @@ There are many people involved in the project. This includes people from Canada,
 
   ## Writing
 
-  These users help with the storyline and events in the game.
+  These users help with the storyline and events in the game. The story line, the references, the *lore* of the game, lies in this group/
 
   **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Co-Lead Writer
 
@@ -88,11 +91,11 @@ There are many people involved in the project. This includes people from Canada,
 
   ## Sound
 
-  These users help provide the audible atmosphere for the game.
+  These users help provide the audible atmosphere for the game. Unless your deaf, this group is very helpful to the aestethics of the game.
 
   **Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Lead Music / Sound Composer 
 
-  **Born of Pixels#6462** - Music / Sound Effect Composer
+  **Born of Pixels#6462** ([@](https://github.com/)** - Music / Sound Effect Composer
 
   **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
