@@ -95,7 +95,7 @@ There are many people involved in the project. This includes people from Canada,
 
   **Nitro#7054 ([@Nitro444](https://github.com/Nitro444))** - Lead Music / Sound Composer 
 
-  **Born of Pixels#6462** ([@](https://github.com/)** - Music / Sound Effect Composer
+  **Born of Pixels#6462 ([@](https://github.com/)** - Music / Sound Effect Composer
 
   **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
 
