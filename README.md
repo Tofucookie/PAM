@@ -31,6 +31,15 @@ The game has inspiration from the following games:
 * Jackbox
 * Crab Game
 
+## Working on the Repository
+
+Here will be information on how to work with the repository.
+
+## Departmental Guidelines
+
+Here is information for getting started.
+
+
 
 ## Developer Team
 
