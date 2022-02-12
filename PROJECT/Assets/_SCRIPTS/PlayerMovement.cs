@@ -38,8 +38,8 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         //vars to store the current input so we can change sprites
-        float vert = Input.GetAxis("Vertical");
-        float horiz = Input.GetAxis("Horizontal");
+        float vert = Input.GetAxisRaw("Vertical");
+        float horiz = Input.GetAxisRaw("Horizontal");
 
         selectSprite(horiz, vert);
 
@@ -52,47 +52,53 @@ public class PlayerMovement : MonoBehaviour
 
     private void selectSprite(float inx, float iny)
     {
+        //selects the sprite to use baised on the axis x and y
         if(inx != 0 && iny == 0)
         {
-            if(inx == -1)
+            if(inx < 0)
             {
-                Debug.Log("A Pressed");
+                //Debug.Log("A Pressed");
                 rend.sprite = playerLeft;
             }
-            else if(inx == 1)
+            else if(inx > 0)
             {
-                Debug.Log("D Pressed");
+                //Debug.Log("D Pressed");
                 rend.sprite = playerRight;
             }
         }else if (inx == 0 && iny != 0)
         {
-            if (iny == 1)
+            if (iny > 0)
             {
-                Debug.Log("W Pressed");
+                //Debug.Log("W Pressed");
+                rend.sprite = playerUp;
             }
-            else if (iny == -1)
+            else if (iny < 0)
             {
-                Debug.Log("S Pressed");
+                //Debug.Log("S Pressed");
                 rend.sprite = playerDown;
             }
         }
         else
         {
-            if(inx > 0 & iny < 0)
+            if(inx < 0 && iny > 0)
             {
-                Debug.Log("top left");
+                //Debug.Log("top left");
+                rend.sprite = playerTopLeft;
             }
-            else if (inx > 0 & iny > 0)
+            else if (inx > 0 && iny > 0)
             {
-                Debug.Log("top right");
+                //Debug.Log("top right");
+                rend.sprite = playerTopRight;
             }
-            else if (inx < 0 & iny < 0)
+            else if (inx < 0 && iny < 0)
             {
-                Debug.Log("bottom left");
+                //Debug.Log("bottom left");
+                rend.sprite = playerBottomLeft;
             }
-            else if (inx < 0 & iny > 0)
+            else if (inx > 0 && iny < 0)
             {
-                Debug.Log("bottom right");
+                //Debug.Log("bottom right");
+                rend.sprite = playerBottomRight;
             }
         }
     }
