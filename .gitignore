@@ -1,15 +1,9 @@
 
-# Ignore Library folder
+# ignore unity editor folders
 PROJECT/Library
-
-# ignore unity log folder
 PROJECT/Logs
-
-# ignore unity log folder
 PROJECT/UserSettings
 PROJECT/UserSettings/Layouts
-PROJECT\UserSettings\Layouts\default-2021.dwlt
-PROJECT\UserSettings\Layouts\default-2021.dwlt
 
 # Prerequisites
 *.d
@@ -58,4 +52,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-PROJECT/UserSettings/Layouts/default-2021.dwlt
