@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SomethingThatSoundsFancy.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Title Menu.unity
+    guid: 03fddadd0b51d9044a3bb48ceecf3f01
+  - enabled: 1
+    path: Assets/Scenes/PlaceHolder.unity
+    guid: 96c3b7dfbc35f80479ad9d68ce94c081
   m_configObjects: {}
