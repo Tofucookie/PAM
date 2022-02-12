@@ -1,12 +1,16 @@
 # Prerequisites
 *.d
 
-# the stupid library folder
-PROJECT/Library/
-Library/
+# Ignore Library folder
+PROJECT\Library
+
+# Ignore Library folder
+Library
 
 # ignore unity log folder
-PROJECT/Logs/
+PROJECT\Logs
+
+# ignore unity log folder
 Logs
 
 # Object files
