@@ -57,7 +57,9 @@ There are many people involved in the project. This includes people from Canada,
 
   **BurntToast#1479 ([@ButteredBurntToast](https://github.com/ButteredBurntToast))** - Programmer
 
-  **Ironbatman12#9680 ([@](https://github.com/))** - Programmer
+  **Ironbatman12#9680 ([@](https://github.com/DrakeJohnston))** - Programmer
+  
+  **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Programmer
 
   ## Art & Design
 
