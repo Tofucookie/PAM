@@ -2,10 +2,12 @@
 *.d
 
 # the stupid library folder
-PROJECT/Library
+PROJECT/Library/
+Library/
 
 # ignore unity log folder
-PROJECT/Log
+PROJECT/Logs/*
+Logs/*
 
 # Object files
 *.ko
