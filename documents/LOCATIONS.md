@@ -25,3 +25,8 @@ A dark forest that can feel like it goes on forever with dangerous monsters like
 a spreadful combination of swamps, wetlands, and jungles on the outer fringes of The World and not for the faint of heart, this quagmire is well-known for "consuming" anyone that ventures into the inky darkness that blooms from it and of the deadly flora that thrive there, with the same stories also stating of long forgotten relics and weapons of both the Melon and Pumpkin kingdoms and of survivors that lost all shreds of humanity.
 but these are just campfire stories....
 right?
+
+# Extra Locations
+
+## TEST land
+The original area used for testing basic player movement in early development.
