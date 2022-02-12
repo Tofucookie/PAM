@@ -2,16 +2,10 @@
 *.d
 
 # Ignore Library folder
-PROJECT\Library
-
-# Ignore Library folder
-Library
+PROJECT/Library
 
 # ignore unity log folder
-PROJECT\Logs
-
-# ignore unity log folder
-Logs
+PROJECT/Logs
 
 # Object files
 *.ko
