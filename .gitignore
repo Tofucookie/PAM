@@ -1,11 +1,18 @@
-# Prerequisites
-*.d
 
 # Ignore Library folder
 PROJECT/Library
 
 # ignore unity log folder
 PROJECT/Logs
+
+# ignore unity log folder
+PROJECT/UserSettings
+PROJECT/UserSettings/Layouts
+
+
+
+# Prerequisites
+*.d
 
 # Object files
 *.ko
@@ -51,6 +58,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# your mom
-*.yourmom
