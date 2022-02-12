@@ -5,7 +5,7 @@
 Library
 
 # ignore unity log folder
-Log
+Logs
 
 # Object files
 *.ko
