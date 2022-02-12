@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# the stupid library folder
+PROJECT/Library
+
 # Object files
 *.ko
 *.elf
