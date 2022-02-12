@@ -38,8 +38,8 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         //vars to store the current input so we can change sprites
-        float vert = Input.GetAxis("Vertical");
-        float horiz = Input.GetAxis("Horizontal");
+        float vert = Input.GetAxisRaw("Vertical");
+        float horiz = Input.GetAxisRaw("Horizontal");
 
         selectSprite(horiz, vert);
 
