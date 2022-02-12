@@ -6,8 +6,8 @@ PROJECT/Library/
 Library/
 
 # ignore unity log folder
-PROJECT/Logs/*
-Logs/*
+PROJECT/Logs/
+Logs
 
 # Object files
 *.ko
