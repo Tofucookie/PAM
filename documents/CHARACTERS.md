@@ -88,6 +88,9 @@ The guard dog of Lord Pumpki. Based on the original Pumpki mascot
 
 A reference to Pumpki's Fish Gang, the late night VC group. They are five fishes. They are an emodiment of what people imagine what a 90s high school gang looks like, however they are on your side and you encounter them from time to time, similar to the Toad Brigade encounters from Super Mario Galaxy. 
 
+![image](https://user-images.githubusercontent.com/20269990/153701334-c82c50ee-8d57-401a-9dda-ab6a1d6f37f3.png)
+
+
 ### Sun Fish
 
 Reference to Baconator / Sunfish. The main fish of the crew. He is a tall big fish who wears sunglasses and loves bacon!
