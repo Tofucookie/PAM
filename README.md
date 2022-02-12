@@ -35,6 +35,8 @@ The game has inspiration from the following games:
 
 Here will be information on how to work with the repository.
 
+Artists, visual artists, and writers: it is highly recommended to upload all files worked on the project into the repository. This includes editor files.
+
 ## Departmental Guidelines
 
 Here is information for getting started.
