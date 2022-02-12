@@ -4,6 +4,9 @@
 # the stupid library folder
 PROJECT/Library
 
+# ignore unity log folder
+PROJECT/Log
+
 # Object files
 *.ko
 *.elf
