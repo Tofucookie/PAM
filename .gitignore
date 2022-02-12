@@ -4,6 +4,7 @@ PROJECT/Library
 PROJECT/Logs
 PROJECT/UserSettings
 PROJECT/UserSettings/Layouts
+PROJECT/Temp/
 
 # Prerequisites
 *.d
