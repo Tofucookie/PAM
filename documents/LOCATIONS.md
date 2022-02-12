@@ -5,6 +5,10 @@ The game features many new original locations and locations that reference momen
 
 
 # Major & Main Locations
+
+## The Pumpkin Patch
+The starting location of the game. It was a relatively safe place until some watermelons started growing at the end of the patch. It houses majority of pumpkins of the region, including the player.
+
 ## Slickstone Island - Ancient Mushroom Society
 Not much is known about the Ancient Mushroom Society, since according to the Slickstone Chronicles, they turned on each other and drove themselves into extinction. All that is known about the mysterious society is that the land they reside in is where all life on (name of world) originated. We later learn that the people of this civilisation had been experimenting with gene manipulation because they were a highly advanced people who were capable of creating lands that defied gravity itself. 
 
