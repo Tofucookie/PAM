@@ -9,8 +9,7 @@ PROJECT/Logs
 PROJECT/UserSettings
 PROJECT/UserSettings/Layouts
 PROJECT\UserSettings\Layouts\default-2021.dwlt
-
-
+PROJECT\UserSettings\Layouts\default-2021.dwlt
 
 # Prerequisites
 *.d
@@ -59,3 +58,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+PROJECT/UserSettings/Layouts/default-2021.dwlt
+PROJECT/UserSettings/Layouts/default-2021.dwlt
+PROJECT/UserSettings/Layouts/default-2021.dwlt
