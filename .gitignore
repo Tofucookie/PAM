@@ -8,6 +8,7 @@ PROJECT/Logs
 # ignore unity log folder
 PROJECT/UserSettings
 PROJECT/UserSettings/Layouts
+PROJECT\UserSettings\Layouts\default-2021.dwlt
 
 
 
