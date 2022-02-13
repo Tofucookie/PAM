@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     float speed = 5.0f;
 
     SpriteRenderer rend;
+    PlayerCombat comb;
 
     //textures for the directions to switch on move
     [SerializeField]
@@ -33,6 +34,7 @@ public class PlayerMovement : MonoBehaviour
     private void Start()
     {
         rend = gameObject.GetComponent<SpriteRenderer>();
+        comb = gameObject.GetComponent<PlayerCombat>();
     }
 
     void Update()
