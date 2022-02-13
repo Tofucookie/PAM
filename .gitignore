@@ -6,6 +6,9 @@ PROJECT/UserSettings
 PROJECT/UserSettings/Layouts
 PROJECT/Temp/
 
+# ignore the ignore folder
+IGNORE_FOLDER/
+
 # Prerequisites
 *.d
 
