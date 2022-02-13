@@ -518,6 +518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  moveDisabled: 0
   playerLeft: {fileID: 1141230924, guid: 8f7237ac9a8251b49bb8821e3fa41061, type: 3}
   playerMid: {fileID: 21300000, guid: 0498e18821b67e9478c7cc837b1b4654, type: 3}
   playerRight: {fileID: -1550824264, guid: 816a9932a72132b42b1115744d5f5d9f, type: 3}
@@ -540,6 +541,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sword: {fileID: 3061196456202121853, guid: 5988a4ba76fa0ee45ae142cdea7766e4, type: 3}
+  offset: 3
 --- !u!1 &1958307745
 GameObject:
   m_ObjectHideFlags: 0
