@@ -8,7 +8,7 @@
 
 # Pumpki: Attack of the Melons
 
-This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (**https://discord.gg/evweF5J8UU**)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
+Welcome! This is the main repository for the game Pumpki: Attack of the Melons created by the discord server Pumpki (**https://discord.gg/evweF5J8UU**)! Used for all things coding, writing, NPC dialogue, art, music, or any other resources for the game!  
 
 
 
