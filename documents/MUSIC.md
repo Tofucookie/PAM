@@ -20,3 +20,4 @@
 | sfx_door_close.mp3 | Door Close | Dodge the Axolotl Master#6381 | Content Cell | Content Cell |
 | sfx_door_knock.mp3 | Door Knock | Dodge the Axolotl Master#6381 | Content Cell | Content Cell |
 | sfx_door_knock_alternate.mp3 | Door Knock Alternate | Dodge & Nitro | Content Cell | Content Cell |
+| bgm_rickroll.mp3 | Rickroll | Dodge the Axolotl Master#6381 | Content Cell | Content Cell
