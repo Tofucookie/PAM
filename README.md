@@ -78,9 +78,11 @@ There are many people involved in the project. This includes people from Canada,
 
   **CladDogger#3333 ([@CladDogger](https://github.com/CladDogger))** - Lead Sprite Artist
 
-  **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Lead Concept Artist
+  **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Co-Lead Concept Artist
 
-  **DumbDom#3977 ([@DumbDom1](https://github.com/DumbDom1))** - Concept / Promotional Artist
+  **DumbDom#3977 ([@DumbDom1](https://github.com/DumbDom1))** - Co-Lead Concept Artist
+  
+  **travisty#6660 ([@TravesBRUH](https://github.com/TravesBRUH))** - General Artist
 
   **lucid#5887 ([@](https://github.com/))** - General Artist
 
