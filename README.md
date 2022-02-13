@@ -90,11 +90,12 @@ There are many people involved in the project. This includes people from Canada,
 
   These users help with the storyline and events in the game. The story line, the references, the *lore* of the game, lies in this group/
 
-  **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - Co-Lead Writer
 
   **bitchrogue,#1703 ([@RogueSchmoge](https://github.com/RogueSchmoge))** - Co-Lead Writer
 
-  **MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Main Story Writer
+  **MisterTimber#7487 ([@MisterTimber](https://github.com/MisterTimber))** - Co-Lead Writer
+  
+  **Tofucookie#8888 ([@Tofucookie](https://github.com/Tofucookie))** - General Writer
 
   **Scotty_0501#5181 ([@Scotty05](https://github.com/Scotty05))** - Main Story Writer
 
