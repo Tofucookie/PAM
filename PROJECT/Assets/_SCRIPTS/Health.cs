@@ -39,7 +39,7 @@ public class Health : MonoBehaviour
                 float damage = 1; // damage to be replaced with enemy's strength
                 health = health - (damage - defense);
             }
-            // Most specific:
+            // If calculation invalid, subtract 1 from health; fallback damage
             catch (System.Exception e)
             {
                 Debug.Log($"FUCK: {e}");
