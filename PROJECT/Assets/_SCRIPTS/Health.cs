@@ -24,6 +24,7 @@ public class Health : MonoBehaviour
         }
     }
 
+    // SUBTRACT FROM HEALTH 
     private void OnTriggerEnter2D(Collider2D coll)
     {
         if (coll.gameObject.tag == strTag)
@@ -33,6 +34,7 @@ public class Health : MonoBehaviour
         }
     }
 
+    // DEATH SCREEN
     void Death()
     {
         Destroy(this.gameObject);
