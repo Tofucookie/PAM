@@ -25,6 +25,11 @@ public class Health : MonoBehaviour
         {
             Death();
         }
+        else if (health > 9999)
+        {
+            Debug.Log($"The user died of a heart attack. Health: {health}");
+            Death();
+        }
     }
 
     // SUBTRACT FROM HEALTH 
