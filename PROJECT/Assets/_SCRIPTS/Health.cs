@@ -30,7 +30,7 @@ public class Health : MonoBehaviour
         if (coll.gameObject.tag == strTag)
         {
             Debug.Log(health);
-            health--;
+            float v = health--;
         }
     }
 
