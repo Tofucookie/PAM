@@ -36,8 +36,8 @@ public class Health : MonoBehaviour
             Debug.Log($"Got hit! Previous player health: {health}");
             try
             {
-                strength = 1;
-                health = health - strength;
+                float damage = 1; // damage to be replaced with enemy's strength
+                health = health - (damage - defense);
             }
             // Most specific:
             catch (System.Exception e)
