@@ -429,6 +429,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4698623434529713198, guid: 019ef48a213957746b819f24b20dfd62, type: 3}
+      propertyPath: defense
+      value: 0.25
+      objectReference: {fileID: 0}
     - target: {fileID: 6588767551027945218, guid: 019ef48a213957746b819f24b20dfd62, type: 3}
       propertyPath: playerUp
       value: 
