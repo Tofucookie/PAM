@@ -42,7 +42,7 @@ public class Health : MonoBehaviour
             try
             {
                 float damage = 1; // damage to be replaced with enemy's strength
-                health = health - (damage - defense);
+                health = health - (damage - defense); // I'm unsure how to add a floor (minimum) command so it's a minimum of 0.
             }
             // If calculation invalid, subtract 1 from health; fallback damage
             catch (System.Exception e)
