@@ -9,6 +9,9 @@ public class Health : MonoBehaviour
 
     [SerializeField]
     string strTag;
+    public float strength;
+    public float defense;
+
 
 
     void Update()
@@ -29,8 +32,22 @@ public class Health : MonoBehaviour
     {
         if (coll.gameObject.tag == strTag)
         {
-            Debug.Log(health);
-            float v = health--;
+            // Check to see if enemy has attack strength
+            Debug.Log($"Got hit! Previous player health: {health}");
+            try
+            {
+                strength = 1;
+                health = health - strength;
+            }
+            // Most specific:
+            catch (System.Exception e)
+            {
+                Debug.Log($"FUCK: {e}");
+                health--;
+            }
+            Debug.Log($"Got hit! Current player health: {health}");
+
+
         }
     }
 
