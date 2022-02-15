@@ -160,6 +160,10 @@ A reference to the Minecraft server tips. An old man that gives you unnecessary 
 
 A reference to MisterTimber. A tree-whisperer monk king of the woodlens in the Hollow Woods who speaks in riddles. The exact opposite of what he predicts in the future happens. You notice his predictions are polar opposite after a few prediction and use it to your full advantage... Except for one major prediction.
 
+## Treed
+
+A young Woodlen that guides you through the Hollow Woods
+
 # NPC Characters
 
 ## Phrog - Shopkeeper
@@ -167,3 +171,9 @@ A reference to Scotty. A shop keeper. used to be a human named Scott, but accide
 
 ## Scott
 Another reference to Scotty The shop keepers pet. used to be a Frog named Phrog (very clever guys) but accidentally swapped bodies with a human, now he’s a dumbass human that acts like a frog.
+
+# Creatures
+
+## Woodlens
+
+Creatures in the Hollow Woods that live in the Timber Village led by Master Wood. They’re completely disconnected from the outside world, so much so that they don’t even know about any other species other than the ones in the forest. They may seem dumb on the outside, but they are wise beings who are blessed by a magical force that has protected them for centuries. Near the end of the game, they could bless you with their power to defeat Lord Pumpki
