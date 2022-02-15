@@ -7,7 +7,11 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     float speed = 5.0f;
 
+    [SerializeField]
+    bool moveDisabled = false;
+
     SpriteRenderer rend;
+    PlayerCombat comb;
 
     //textures for the directions to switch on move
     [SerializeField]
@@ -33,21 +37,30 @@ public class PlayerMovement : MonoBehaviour
     private void Start()
     {
         rend = gameObject.GetComponent<SpriteRenderer>();
+        comb = gameObject.GetComponent<PlayerCombat>();
     }
 
     void Update()
     {
-        //vars to store the current input so we can change sprites
-        float vert = Input.GetAxisRaw("Vertical");
-        float horiz = Input.GetAxisRaw("Horizontal");
+        if (!moveDisabled)
+        {
+            //vars to store the current input so we can change sprites
+            float vert = Input.GetAxisRaw("Vertical");
+            float horiz = Input.GetAxisRaw("Horizontal");
 
-        selectSprite(horiz, vert);
+            selectSprite(horiz, vert);
 
-        //movement handling
-        float yDir = vert * Time.deltaTime * speed;
-        float xDir = horiz * Time.deltaTime * speed;
+            //movement handling
+            float yDir = vert * Time.deltaTime * speed;
+            float xDir = horiz * Time.deltaTime * speed;
 
-        transform.Translate(new Vector3(xDir, yDir));
+            transform.Translate(new Vector3(xDir, yDir));
+        }
+    }
+
+    public void DisableMove(bool b)
+    {
+        moveDisabled = b;
     }
 
     private void selectSprite(float inx, float iny)
@@ -59,11 +72,13 @@ public class PlayerMovement : MonoBehaviour
             {
                 //Debug.Log("A Pressed");
                 rend.sprite = playerLeft;
+                comb.ChangeAttackDir(new Vector3(-1, 0));
             }
             else if(inx > 0)
             {
                 //Debug.Log("D Pressed");
                 rend.sprite = playerRight;
+                comb.ChangeAttackDir(new Vector3(1, 0));
             }
         }else if (inx == 0 && iny != 0)
         {
@@ -71,11 +86,13 @@ public class PlayerMovement : MonoBehaviour
             {
                 //Debug.Log("W Pressed");
                 rend.sprite = playerUp;
+                comb.ChangeAttackDir(new Vector3(0, 1));
             }
             else if (iny < 0)
             {
                 //Debug.Log("S Pressed");
                 rend.sprite = playerDown;
+                comb.ChangeAttackDir(new Vector3(0, -1));
             }
         }
         else
