@@ -6,6 +6,17 @@ The Pumpki game features many characters from the Pumpkiverse.
 # Major Charactors
 
 
+## That Guy
+
+The silent protagonist of the game who you can name, but most people just call him “That Guy”. In this world of interesting, fun characters, each unique from the last, That Guy is always silent, keeps to himself, and is considered the most boring person in Pumpville or whatever the town is called. But ever since the town got destroyed by the Watermelons, everyone is too scared to do anything except for That Guy who decides to fight them off not from the goodness of his heart, not for any awards, but because he has nothing better to do.
+
+### Sample Dialogue
+>...
+
+>...?
+
+>...!
+
 ## Lord Pumpki
 
 The main villain. A supposed king of the Pumpkins who has become corrupted.
