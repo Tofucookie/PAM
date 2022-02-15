@@ -1,4 +1,4 @@
-**[Main Page](../../..) | [Music Information](MUSIC.md) | [Storyline](STORY.md) | [Characters](CHARACTERS.md) | [Locations](LOCATIONS.md) | [Proposed Concepts](PROPOSED.md)**
+**[Main Page](../../../..) | [Music Information](../MUSIC.md) | [Storyline](../STORY.md) | [Characters](../CHARACTERS.md) | [Locations](../LOCATIONS.md) | [Proposed Concepts](../PROPOSED.md)**
 
 # SUB PLOTS
 
