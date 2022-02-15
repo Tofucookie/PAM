@@ -48,7 +48,7 @@ Here is information for getting started.
 There are many people involved in the project. This includes people from Canada, United States, United Kingdom, Cyprus & Denmark.
 
 <details>
-  <summary><b>CLICK TO EXPAND</b></summary>
+  <summary><b>Full Credits</b></summary>
 
   ## Supervision
 
@@ -126,3 +126,13 @@ There are many people involved in the project. This includes people from Canada,
   **Dullpepper#8677 ([@Dullpepper5](https://github.com/Dullpepper5))** - Unknown
 
   </details>
+
+### Timezone Outlook
+
+| User  | Timezone |
+|  ---: | :--- |
+| SirInfinity | CST (UTC-6) |
+| Tofucookie | EST (UTC-5) |
+| Scotty05 | GMT (UTC+0) |
+| CladDogger | EET (UTC+1) |
+| BurntToast | EET (UTC+2) |

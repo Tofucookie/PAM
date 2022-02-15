@@ -8,6 +8,7 @@ PROJECT/Temp/
 
 # ignore the ignore folder
 IGNORE_FOLDER/
+BUILDS/
 
 # Prerequisites
 *.d
