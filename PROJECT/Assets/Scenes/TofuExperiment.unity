@@ -431,7 +431,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4698623434529713198, guid: 019ef48a213957746b819f24b20dfd62, type: 3}
       propertyPath: defense
-      value: 1024
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4703147894554177035, guid: 019ef48a213957746b819f24b20dfd62, type: 3}
       propertyPath: m_Size.x
