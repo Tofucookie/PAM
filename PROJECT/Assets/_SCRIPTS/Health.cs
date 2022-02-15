@@ -47,7 +47,7 @@ public class Health : MonoBehaviour
             // If calculation invalid, subtract 1 from health; fallback damage
             catch (System.Exception e)
             {
-                Debug.Log($"FUCK: {e}");
+                Debug.Log($"Error: {e}");
                 health--;
             }
             Debug.Log($"Got hit! Current player health: {health}");
