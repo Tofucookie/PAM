@@ -114,6 +114,8 @@ There are many people involved in the project. This includes people from Canada,
   **Born of Pixels#6462 ([@](https://github.com/))** - Music / Sound Effect Composer
 
   **Dodge#6381 ([@Dodge21](https://github.com/Dodge21))** - Music Composer
+  
+  **DJ Matrixko#7521 ([@Matrixko-21](https://github.com/Matrixko-21))** - General Audio
 
   ## Miscellaneous
 
