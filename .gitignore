@@ -11,8 +11,8 @@ IGNORE_FOLDER/
 BUILDS/
 
 # ignore the visual studio files
-PROJECT\Assets\_SCRIPTS\.vs
-PROJECT\.vs
+PROJECT/Assets/_SCRIPTS/.vs
+PROJECT/.vs
 
 # Prerequisites
 *.d
