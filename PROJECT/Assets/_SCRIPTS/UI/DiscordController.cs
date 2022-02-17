@@ -11,7 +11,7 @@ public class DiscordController : MonoBehaviour
     void Start()
     {
         /// GET CURRENT TIME
-        var epochNow = (Int64)(DateTime.Now.Subtract(new DateTime(1970, 1, 1))).TotalSeconds;
+        var epochNow = (Int64)(DateTime.Now.Subtract(new DateTime(1970, 3, 3))).TotalSeconds;
 
         discord = new Discord.Discord(943728662769971241, (System.UInt64)Discord.CreateFlags.Default);
         var activityManager = discord.GetActivityManager();
@@ -21,11 +21,12 @@ public class DiscordController : MonoBehaviour
             Details = "Debug Menu",
             Timestamps =
             {
-                Start = epochNow,
+                Start = 5,
             },
             Assets = 
             {
                LargeImage = "icon",
+               LargeText = "0.0.3b-PRE_ALPHA-BUILD_TEST",
             },
         };
         activityManager.UpdateActivity(activity, (res) =>
