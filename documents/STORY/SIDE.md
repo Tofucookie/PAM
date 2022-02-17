@@ -1,5 +1,7 @@
 **[Main Page](../../../..) | [Music Information](../MUSIC.md) | [Storyline](../STORY.md) | [Characters](../CHARACTERS.md) | [Locations](../LOCATIONS.md) | [Proposed Concepts](../PROPOSED.md)**
 
+**[< Chapter 8](8.md) | [Prologue >](0.md)**
+
 # SUB PLOTS
 
 ## Chapter 9 - The Interview (POST RELEASE, BONUS CONTENT)
