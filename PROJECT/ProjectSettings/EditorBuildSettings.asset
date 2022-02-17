@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ui_you-died.unity
     guid: f84bc9d7d13a3fe4994e1b2147829614
+  - enabled: 1
+    path: Assets/Scenes/AREAS/area_generic.unity
+    guid: 3b760142d2ac63d4880ef21b7689349b
   m_configObjects: {}
