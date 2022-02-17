@@ -138,6 +138,10 @@ An exact clone of Green Ninja that was worked on by Green Ninja. It was meant to
 
 ## Jack of All Fruits
 
+## Willow Wisp
+
+A boss that is attacks the player in an underground mausoleum/church. There first phase of the fight is RPG mode. Vines lower from the ceiling and other fiends engage. As the battle progresses the ceiling collapses. The surface is then exposed, and a giant flaming willow tree appears. The battle switches to OPEN WORLD mode. 
+
 ## King Cantalopé
 
 ## Post Melon
