@@ -12,6 +12,7 @@ BUILDS/
 
 # ignore the visual studio files
 PROJECT/Assets/_SCRIPTS/.vs
+PROJECT/Assets/.vs
 PROJECT/.vs
 
 # Prerequisites
