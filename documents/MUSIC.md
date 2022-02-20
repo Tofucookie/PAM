@@ -22,3 +22,4 @@
 | sfx_door_knock_alternate.mp3 | Door Knock Alternate | Dodge & Nitro | Content Cell | Content Cell |
 | bgm_rickroll.mp3 | Rickroll | Dodge the Axolotl Master#6381 | Content Cell | Content Cell
 | sfx_health_low.mp3 | Health Low | Dodge the Axolotl Master#6381 | Content Cell | Content Cell | 
+| sfx_wee2_crash.mp3 | "Wee 2" crash | Dodge the Axolotl Master#6381 | Content Cell | Content Cell |
